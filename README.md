@@ -29,12 +29,12 @@ We incorporated the ball caster into the design, enhancing stability and offerin
 
 ## Code 📚
 
-[Link to Code]()
+[Link to Code](https://github.com/teodor-daniel1234/LineFollower/blob/main/LineFollower/LineFollower.ino)
 
 ## Line Follower Assembled 🤖
 
-![Assembled line follower]()
+![Assembled line follower](https://github.com/teodor-daniel1234/LineFollower/blob/main/LineFollower/FinalBuild.jpeg)
 
 ## Video of the course 🎥
 
-[Watch the Video]()
+[Watch the Video](https://youtu.be/3L3B0zvhVQk)
