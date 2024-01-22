@@ -14,9 +14,6 @@ The objective of this project is to construct a line-following robot, utilizing 
 - Chassis (Constructed from foam board)
 - Ball Caster (Enhances stability)
 - LEDs (Headlights, backlights, and underglow)
-- Joystick for movement and shooting
-- Buzzer for audio feedback
-- LCD display for game stats and menu
 - Necessary wiring
 
 ## Project Design 🌈
